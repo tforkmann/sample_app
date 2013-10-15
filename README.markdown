@@ -1,0 +1,2 @@
+# RoR Tutorial training application
+
